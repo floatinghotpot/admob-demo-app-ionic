@@ -1,0 +1,33 @@
+{
+  "name": "admob-demo-app-ionic",
+  "version": "1.0.0",
+  "description": "Demo app for Cordova AdMob plugin, using ionic framework",
+  "cordova": {
+    "id": "admob-demo-app-ionic",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floatinghotpot/admob-demo-app-ionic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/admob-demo-app-ionic/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "ad",
+    "admob",
+    "google",
+    "rjfun"
+  ],
+  "author": {
+    "name": "Liming Xie"
+  },
+  "license": "MIT"
+}
