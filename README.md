@@ -14,7 +14,7 @@ First, make sure Android SDK (for android) or Xcode (for iOS) is installed.
 [sudo] npm install plugin-verify -g
 
 # run admob demo in a game powered by PIXI HTML5 engine
-plugin-verify admob-demo-app-ionic ios --landscape
+plugin-verify admob-demo-app-ionic ios --portrait
 ```
 
 ### Screenshot ###
